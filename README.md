@@ -12,7 +12,6 @@ SuiS3 is a tool that presents an AWS S3-style CLI, facilitating the effective ma
 
 ### Command List
 
-#### Table 1: List commands will send single http request
 | COMMAND                                                                   | FUNCTION                                                    
 |---------------------------------------------------------------------------|-------------------------------------------------------------
 | mb suis3://_bucket_                                                       | create bucket
@@ -36,7 +35,7 @@ SuiS3 is a tool that presents an AWS S3-style CLI, facilitating the effective ma
 
 
 ### Demo
-- pitch [slides]()
+- pitch [site](https://3k72mblg9csrgajc53ijbsq6ia2fwebliz5984j5h2p15axdxw.walrus.site)
 - A short demo [video]()
 
 
