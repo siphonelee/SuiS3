@@ -20,8 +20,8 @@ SuiS3 is a tool that presents an AWS S3-style CLI, facilitating the effective ma
 | ll                                                                        | list all buckts details (create time, bucket name)
 | ls suis3://_bucket_                                                       | list objects in the bucket
 | ll suis3://_bucket_                                                       | list objects detail in the bucket (object uri, create/modify time, size, blob id, expire epoch) 
-| put <file> suis3://_bucket_/_object_                                      | upload the file 
-| put <file> suis3://_bucket_                                               | upload the file (file name as object name)
+| put _file_ suis3://_bucket_/_object_                                      | upload the file 
+| put _file_ suis3://_bucket_                                               | upload the file (file name as object name)
 | get suis3://_bucket_/_object_ _file_                                      | download object and save to assigned file
 | get suis3://_bucket_/_object_                                             | download object in current folder
 | cat suis3://_bucket_/_object_                                             | show the object content
