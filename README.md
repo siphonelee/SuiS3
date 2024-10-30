@@ -35,7 +35,7 @@ SuiS3 is a tool that presents an AWS S3-style CLI, facilitating the effective ma
 
 
 ### Demo
-- pitch [site](https://3k72mblg9csrgajc53ijbsq6ia2fwebliz5984j5h2p15axdxw.walrus.site)
+- pitch [site](https://3l6erkaqksdba5mvqq0yuxp901o0r6ukdl5wfqof1o13eghxyy.walrus.site/)
 - A short demo [video](https://www.youtube.com/watch?v=6gVmW8Lti5E)
 
 
